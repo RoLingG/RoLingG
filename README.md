@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/94214119?v=4" width="160" style="border-radius:50%;box-shadow:0 0 16px rgba(0,0,0,.15)"/>
+</p>
 
-<!--
-**RoLingG/RoLingG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">👋 你好！这里是 RoLingG 👋</h2>
+<p align="center">主要关注：ACG · 游戏 · 音乐 · 电影 · 后台开发</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠 常用语言和工具</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,docker,vscode,git,postman,html,css,js,ts,vue,md&theme=light" alt="skills"/>
+</p>
+
+<h3 align="center">🛠 开发系统</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" alt="os"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoLingG&layout=compact&theme=default&hide_border=true" alt="top-langs"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RoLingG&style=flat-square&color=00B4D8" alt="访客"/>
+</p>
