@@ -16,7 +16,8 @@
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" alt="os"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoLingG&layout=compact&theme=default&hide_border=true" alt="top-langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default" alt="top-langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default" alt="top-langs"/>
 </p>
 
 <p align="center">
