@@ -15,10 +15,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" alt="os"/>
 </p>
-<table align="center">
+<table align="center" style="border:0;">
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default" /></td>
+    <td style="border:0;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default"/>
+    </td>
+    <td style="border:0;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default"/>
+    </td>
   </tr>
 </table>
 
