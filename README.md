@@ -15,16 +15,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" alt="os"/>
 </p>
-<table align="center" style="border:0;">
-  <tr>
-    <td style="border:0;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default"/>
-    </td>
-    <td style="border:0;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default" width="49.5%" /><!--
+--><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default" width="49.5%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoLingG&style=flat-square&color=00B4D8" alt="访客"/>
