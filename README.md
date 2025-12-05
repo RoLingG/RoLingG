@@ -15,9 +15,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=light" alt="os"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default" width="49.5%" /><!--
---><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default" width="49.5%" />
+<p align="center" style="display:flex;justify-content:center;align-items:center;gap:12px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoLingG&theme=default" style="height:160px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RoLingG&theme=default" style="height:160px;" />
 </p>
 
 <p align="center">
