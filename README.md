@@ -4,7 +4,7 @@
 
 
 <h2 align="center">👋 你好！这里是 RoLingG 👋</h2>
-<p align="center">主要关注：ACG · 游戏 · 音乐 · 电影 · 后台开发</p>
+<p align="center">主要关注：ACG · 音乐 · 电影 · 后端开发</p>
 
 <h3 align="center">🛠 常用语言和工具</h3>
 <p align="center">
